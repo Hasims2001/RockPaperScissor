@@ -1,0 +1,3 @@
+user = 5
+computer = 3
+Draw = 0
